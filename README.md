@@ -1,1 +1,2 @@
-# job-portal-ci
+# phpmyjobportal
+formerly job-portal-ci
